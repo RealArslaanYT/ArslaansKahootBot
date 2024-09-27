@@ -1,0 +1,2 @@
+javascript==1!1.2.1
+Flask==3.0.3
